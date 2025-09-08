@@ -3,7 +3,7 @@
 
 Library Management is a complete solution to digitalize your library. This software includes Book, Author, Publisher management, Book issue-receive records. Also calculate fine based on return date. It is overall easy to use software for librarian. Library Management has Master, Registration of staffs and members, Manage Books, Manage Books issues, return, renew and Reports. This Library Management System is a lightweight platform for schools, colleges and any educational institutions, book shops and etc. It sports a clean and intuitive interface that allows you to add a new book to the list by specifying the title, author name, publisher, subject, category, edition, purchase date and price. Books can be edited or deleted pretty easily, and you can also view the ones that need to be returned by different users. The application enables you to create a list with students by specifying the name, address, phone number and book issue limit. It is possible to view a list with the books that weren’t returned and perform searches throughout the entire database for quickly spotting a book or user.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2017/01/desktop-library1.jpg">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738546563_efddd8096872e22bc82f.webp">
 
 <b>Library Management Software has the following core features</b>
 
@@ -20,5 +20,15 @@ Library Management is a complete solution to digitalize your library. This softw
 <li>User Settings</li>
 <li>Reports (Fine Collection, Student, Staff and Books)</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/library-management-system/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/library-management-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
